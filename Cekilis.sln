@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cekilis", "Cekilis\Cekilis.csproj", "{67370268-3EBE-4882-8AE9-5E7939D740DA}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4AF79F2B-30C9-437C-955F-6B7430C79B9E}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CekilisSetup", "CekilisSetup\CekilisSetup.vdproj", "{29A93D3A-B103-4D5D-9038-4E6E8C8C188B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{67370268-3EBE-4882-8AE9-5E7939D740DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67370268-3EBE-4882-8AE9-5E7939D740DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67370268-3EBE-4882-8AE9-5E7939D740DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4AF79F2B-30C9-437C-955F-6B7430C79B9E}.Debug|Any CPU.ActiveCfg = Debug
-		{4AF79F2B-30C9-437C-955F-6B7430C79B9E}.Release|Any CPU.ActiveCfg = Release
+		{29A93D3A-B103-4D5D-9038-4E6E8C8C188B}.Debug|Any CPU.ActiveCfg = Debug
+		{29A93D3A-B103-4D5D-9038-4E6E8C8C188B}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
